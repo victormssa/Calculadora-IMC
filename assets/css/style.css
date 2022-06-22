@@ -1,6 +1,6 @@
 :root{
-    --primary-color: rgb(154, 4, 4);
-    --primary-color-darker: rgb(118, 3, 3);
+    --primary-color: rgb(4, 72, 154);
+    --primary-color-darker: rgb(4, 45, 95);
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
